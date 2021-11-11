@@ -11,9 +11,6 @@ export const UploaderWrapper = styled.label`
   display: flex;
   align-items: center;
   position: relative;
-  min-width: 322px;
-  max-width: 508px;
-  height: 48px;
   flex-grow: 0;
   padding: 8px 16px 8px 8px;
   border-radius: 5px;
